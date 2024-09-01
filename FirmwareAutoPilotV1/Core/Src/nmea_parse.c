@@ -1,6 +1,3 @@
-//
-// Created by sztuka on 22.01.2023.
-//
 #include "nmea_parse.h"
 
 
